@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: crimson;
+    color: cornflowerblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+img{
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-left:20px;
+}
